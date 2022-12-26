@@ -1,6 +1,11 @@
 ## 🙋‍♂️ Hello there!
 
-My name is Aleksei and I am a passionate learner who recently started delving into the world of Python, SQL, and data science. I have a strong interest in big data and machine learning concepts, and I am always eager to learn new things and expand my skillset adn to apply these skills in real-world projects.
+### My name is Aleksei and I am:
+* :bowtie: A legal Advisor and soliciter, turned into Data Sientist
+* 🏃 Transition to Data Science since March 2022
+
+Moreover, I am a passionate learner who recently started delving into the world of Python, SQL, and data science. I have a strong interest in big data and machine learning concepts, and I am always eager to learn new things and expand my skillset adn to apply these skills in real-world projects.
+
 
 In my previous career, I had experience managing a team of up to 6 people and successfully handling complex tasks and challenges. My goal is to become a senior project manager or team leader in an interesting and innovative project that involves working with big data to help people.
 
