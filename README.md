@@ -29,6 +29,7 @@ I speak English and Russian freely.
 * Expanding my SQL skillset
 
 🤝 Feel free to connect with me on Github and let's learn and grow together!
+
 📱[Telegram](https://t.me/pjatkovsky)
 👔[LinkedIn](https://www.linkedin.com/in/aleksei-bykov-vilnius/)
 💻[Facebook](https://www.facebook.com/s.sovetnik/)
