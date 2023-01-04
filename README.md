@@ -33,6 +33,8 @@ I speak English and Russian freely.
 * Taking Udemy course Python for Data Science
 * Expanding my SQL skillset
 
+My current CV is [here](https://github.com/shohart/shohart/blob/master/CV%20bykov%20en-US%20DS_PY.pdf)
+
 🤝 Feel free to connect with me on Github and let's learn and grow together!
 
 📱[Telegram](https://t.me/pjatkovsky)
