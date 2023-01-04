@@ -2,7 +2,7 @@
 
 ### My name is Aleksei and I am:
 * :bowtie: A legal Advisor and soliciter, turned into Data Sientist
-* 🏃 Transition to Data Science since March 2022
+* 🏃 In Transition to Data Science since March 2022
 
 Moreover, I am a passionate learner who recently started delving into the world of Python, SQL, and data science. I have a strong interest in big data and machine learning concepts, and I am always eager to learn new things and expand my skillset adn to apply these skills in real-world projects.
 
